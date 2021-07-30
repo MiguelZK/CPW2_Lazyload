@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    min-height: 120vh;
+}
+
+.wrapper {
+    width: 800px;
+}
+
+img {
+    height: 400px;
+}
